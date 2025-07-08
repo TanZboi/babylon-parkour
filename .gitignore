@@ -1,0 +1,15 @@
+# Ignore build output
+dist/
+.parcel-cache/
+
+# Ignore dependencies
+node_modules/
+
+# Ignore IDE settings
+.idea/
+
+# OS junk files (optional but nice)
+.DS_Store
+
+# Logs or debug output (optional)
+*.log

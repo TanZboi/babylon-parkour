@@ -1,0 +1,20 @@
+{
+  "name": "babylonparkour",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "babylonjs": "^8.15.1",
+    "babylonjs-loaders": "^8.15.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "typescript": "^5.8.3"
+  }
+}
